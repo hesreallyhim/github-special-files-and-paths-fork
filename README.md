@@ -52,7 +52,7 @@ Although the documentation does not stipulate this as a general rule, files in `
 
 The special files and paths are sometimes also known as community health files, recommended repository files, well-known configurations, etc.
 
-For a general overview see [building a strong community](https://help.github.com/categories/building-a-strong-community/) and [GitHub's Open Source Guides](https://opensource.guide/).
+For a general overview see [building a strong community](https://help.github.com/categories/building-a-strong-community/) and [GitHub's Open Source Guides](https://opensource.guide/). For a playful exploration of some of the ways you can (mis)use these GitHub conventions, see [`the-dot-github-repo-pattern`](https://github.com/hesreallyhim/the-dot-github-repo-pattern).
 
 Starters:
 
